@@ -1,0 +1,2 @@
+BETA Guardian v0.2
+Upload all files to the root of a public GitHub repository (no private data). In Settings > Pages choose Deploy from a branch, main / root. Open the published HTTPS URL in iPhone Safari, tap Share > Add to Home Screen. Open once online to cache app files. Test offline before relying on reference information. No integrated AI, automatic communication, monitoring or emergency dispatch. Hosting is not performed by this package. GitHub account and applicable eligibility required.
